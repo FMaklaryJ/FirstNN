@@ -118,7 +118,7 @@ print("Output:")
 print(N0.out)
 print("Wanted output:")
 print(want)
-
+endstring=input("Click enter to exit.")
 
 
 
